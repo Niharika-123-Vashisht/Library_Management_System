@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "lll",
+    "author": "ooo",
+    "category": "pp",
+    "price": 90000,
+    "publisher": "oooo",
+    "available": false
+  }
+]

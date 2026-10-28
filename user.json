@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "email": "niharika616@gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "himi212@gmail.com",
+      "password": "777"
+    }
+  ],
+  "issues": []
+}
